@@ -1,0 +1,11 @@
+.book-panel-1{
+
+    height: calc(100vh - 57px);
+
+}
+
+.list-view{
+
+    background-color: rgb(184, 223, 255);
+    height: 100%;
+}

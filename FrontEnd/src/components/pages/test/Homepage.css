@@ -1,0 +1,42 @@
+.main-content{
+
+    height: calc(100vh - 57px);
+    background-color: rgb(226, 226, 230);
+
+}
+.homecover{
+
+    width: 1110px;
+}
+.second-content{
+
+    background-color: rgb(5, 5, 113);
+  
+    height: 30px;
+}
+.third-content{
+
+    background-color: rgb(5, 5, 113);
+  
+    height: 40px;
+}
+.compnet-list{
+
+    background-color: rgb(5, 5, 113);
+    height: 1000px;
+}
+.search-icon{
+    
+    color: aliceblue;
+    text-align: center;
+
+}
+.search-bar{
+
+ 
+    background-color:  rgb(5, 5, 113);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

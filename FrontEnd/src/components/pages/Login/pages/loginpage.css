@@ -1,0 +1,113 @@
+.login-body{
+
+    background-image: url('../../../assests/empImg/Blue\ White\ Color\ Blocks\ Medicine\ &\ Nursing\ Resume\ Website.png');
+    background-repeat: no-repeat; 
+    height: 500px;;
+    
+}
+.grandParentContaniner{
+    display:table; height:100%; margin: 0 auto;
+}
+
+.parentContainer{
+    display:table-cell; vertical-align:middle;
+}	
+
+h1.loginname{
+
+    color: rgb(6, 0, 0);
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px 24px;
+    
+}
+
+.loginbtn {
+    backface-visibility: hidden;
+    background: #000000;
+    border: 0;
+    border-radius: .375rem;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Circular,Helvetica,sans-serif;
+    font-size: 1.125rem;
+    font-weight: 700;
+    letter-spacing: -.01em;
+    line-height: 1.3;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transform: translateZ(0) scale(1);
+    transition: transform .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .loginbtn:hover{
+
+     background-color: #0151ff;
+  }
+  
+  .loginbtn:disabled {
+    color: #787878;
+    cursor: auto;
+  }
+  
+  .loginbtn:not(:disabled):hover {
+    transform: scale(1.05);
+  }
+  
+  .button-79:not(:disabled):hover:active {
+    transform: scale(1.05) translateY(.125rem);
+  }
+  
+  .loginbtn:focus {
+    outline: 0 solid transparent;
+  }
+  
+  .loginbtn:focus:before {
+    border-width: .125rem;
+    content: "";
+    left: calc(-1*.375rem);
+    pointer-events: none;
+    position: absolute;
+    top: calc(-1*.375rem);
+    transition: border-radius;
+    user-select: none;
+  }
+  
+  .loginbtn:focus:not(:focus-visible) {
+    outline: 0 solid transparent;
+  }
+  
+  .loginbtn:not(:disabled):active {
+    transform: translateY(.125rem);
+  }
+
+  .inputatribute{
+    
+
+    font-family: sans-serif;
+    color: #787878;
+  }
+
+  .login-container{
+
+      background-color: rgb(218, 237, 254);
+      width: 400px;
+      height: 350px;
+      border-radius: 20px;
+      margin-left: 450px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      
+  }
+
+  

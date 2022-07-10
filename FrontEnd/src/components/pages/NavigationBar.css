@@ -1,0 +1,22 @@
+.link 
+{
+    text-decoration: none;
+    color: aliceblue;
+   
+}
+
+.link:hover{
+
+    color: yellow;
+    text-decoration: none;
+
+    
+}
+.navbar{
+
+    background-color:  #0a013f;
+}
+.brandname{
+
+    color: aliceblue;
+}
